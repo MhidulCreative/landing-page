@@ -1,6 +1,6 @@
 # Starbucks Landing Page
 
-![Landing Page Preview](https://github.com/Alok-2002/Starbucks_Landing_Page)
+![Landing Page Preview](image/landing-page-preview.png)
 
 ## Overview
 
