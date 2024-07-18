@@ -27,7 +27,7 @@ This project is a landing page for Starbucks, created using HTML, CSS, and JavaS
 1. Clone the repository to your local machine:
 
     ```sh
-    git clone https://github.com/yourusername/starbucks-landing-page.git
+    git clone https://github.com/MohidulCreative/starbucks-landing-page.git
     ```
 
 2. Navigate to the project directory:
